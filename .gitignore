@@ -42,6 +42,7 @@
 /bin/internal/engine.version
 
 # Flutter repo-specific
+.dart_tool/
 /bin/cache/
 /bin/internal/bootstrap.bat
 /bin/internal/bootstrap.sh
